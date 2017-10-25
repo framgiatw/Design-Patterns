@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="252.0" y="197.0">META-INF</node>
+    <node x="161.0" y="293.0">com</node>
+    <node x="150.0" y="441.0">jdk</node>
+    <node x="0.0" y="101.0">Circle</node>
+    <node x="156.0" y="0.0">Shape</node>
+    <node x="0.0" y="367.0">java</node>
+    <node x="154.0" y="367.0">org</node>
+    <node x="0.0" y="293.0">javax</node>
+    <node x="156.0" y="101.0">Rectangle</node>
+    <node x="0.0" y="197.0">ShapeFactory</node>
+    <node x="312.0" y="101.0">Square</node>
+    <node x="0.0" y="441.0">sun</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Circle" target="Shape">
+      <point x="0.0" y="-25.5" />
+      <point x="68.0" y="76.0" />
+      <point x="178.66666666666666" y="76.0" />
+      <point x="-45.33333333333334" y="25.5" />
+    </edge>
+    <edge source="Rectangle" target="Shape">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="Square" target="Shape">
+      <point x="0.0" y="-25.5" />
+      <point x="380.0" y="76.0" />
+      <point x="269.33333333333337" y="76.0" />
+      <point x="45.33333333333337" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="224.0" y="224.0" />
+  <SelectedNodes>
+    <node>META-INF</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+
